@@ -1,0 +1,18 @@
+html{
+    font-family: 'Poppins', sans-serif;
+}
+
+.titulo{
+    color: rgb(255, 255, 255);
+    background-color: #364552;
+    margin: .5rem;
+    padding: .5rem;
+    border-radius: 2rem; 
+    text-align: center;
+}
+
+.general{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    
+}
